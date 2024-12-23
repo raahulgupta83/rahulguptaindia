@@ -22,11 +22,6 @@ Optimization and troubleshooting of Apache and Nginx web servers.
 Vulnerability assessments and remediation (e.g., Apache CVEs, HSTS implementation).
 Hands-on with Imunify360, firewalls, and SSL/TLS configurations.
 
-🧑‍💻 Programming & Scripting
-Backend development with Node.js (Express.js), PHP, and Python.
-Database management with PostgreSQL, MySQL, and MongoDB.
-Writing efficient automation scripts in Bash and Python.
-
 🌐 What I’m Working On
 🌱 Exploring OpenSearch and optimizing single-node setups.
 🛡 Improving website security by addressing vulnerabilities in Apache HTTP Server.
